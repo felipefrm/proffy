@@ -23,6 +23,7 @@
   <a href="#nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -40,7 +41,7 @@
 Oferecido pela Rocketseat, o Next Level Week é um curso para desenvolver uma aplicação completa do ZERO, utilizando todo o potencial da stack ReactJs, React Native e NodeJS. No projeto foi dedicado 7 dias para o desenvolvimento do projeto Proffy. 
 
 <a id="projeto"></a>
-## 💻 Ecoleta
+## 💻 Proffy 
 
 O Proffy é uma plataforma de estudos online que visa conectar alunos e professores de forma rápida e fácil.
 
@@ -61,6 +62,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Expo][expo]
 - [SQLite](https://www.sqlite.org/index.html)
 
+<a id="screenshots"></a>
 ## 🖥️ Screenshots
 
 #### Web Screenshot
